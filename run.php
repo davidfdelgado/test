@@ -11,4 +11,6 @@ echo 456;
 
 echo 3333;
 
+echo "da ist eine neue Funktion";
+
 echo 34;
